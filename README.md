@@ -1,4 +1,4 @@
-# Sistema de Vendas de Produtos
+# 🌟 Sistema de Vendas de Produtos
 
 Este projeto foi desenvolvido em **Java** utilizando **orientação a objetos** e **MySQL** para gerenciamento de banco de dados. Ele implementa um sistema de vendas de produtos com cadastros de funcionários e clientes, oferecendo uma interface gráfica feita com **JFrame** para interação com o usuário.
 
@@ -36,6 +36,3 @@ O projeto segue os princípios da **orientação a objetos**, utilizando conceit
 ## 🧑‍💻 Autor
 
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/64935845?v=4" width=115><br><sub>Felipe Viana Reis</sub>](https://github.com/Felps3296)
-
-
-controle_de_vendas_java
